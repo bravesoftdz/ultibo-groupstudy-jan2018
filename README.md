@@ -23,6 +23,8 @@ Assignments
 |markfirmware|markfirmware  |-5       |Windows      |
 |pik33       |pik33         |+1       |Raspbian     |
 |pjde        |pjde-ultibo   |+10      |Windows      |
+|captbill    |billbuzzell   |-5       |Windows      |
+      
 
 (SW = Semester Week)
 
